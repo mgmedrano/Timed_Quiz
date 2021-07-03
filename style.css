@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    flex-direction: column;
+    background-color: cadetblue;
+    color: cornsilk;
+}
+
+header {
+    text-align: center;
+}
+
+.start {
+    text-align: center;
+    font-size: 32px;
+    height: auto;
+    width: auto;
+    border-color: darkgrey;
+    border-radius: 12px;
+}
